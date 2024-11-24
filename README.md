@@ -1,3 +1,10 @@
+Based-on this repo, I'm gonna merge it into original [`pwndoc`](https://github.com/pwndoc/pwndoc) (some of feature in original like the way of calculating vulnerabilities, some features ... is better to me).
+
+## TODO-LIST: 
+  - fix some bugs related to modify name of sections, vunerabilities,...
+  - At mini excel in order to make it to work as a Incident Response Workspace.
+  - Add some features to insert response plan...
+
 # PwnDoc-ng
 
 <img src='/docs/_images/logo_text.png' width="200px" />
